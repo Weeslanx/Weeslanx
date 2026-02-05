@@ -11,8 +11,6 @@ Bancos de dados: MySQL, PostgreSQL, MongoDB.
 
 🎯 O que busco: Tenho interesse em contribuir para projetos open-source e criar soluções práticas e impactantes. Meu objetivo é sempre aprender algo novo e evoluir como profissional, seja trabalhando em equipe ou de forma independente.
 
-🌱 No momento: Desenvolvendo novos projetos em Spring Boot, aperfeiçoando habilidades em frameworks modernos e explorando arquiteturas escaláveis.
-
 📫 Como me encontrar:
 
 LinkedIn https://www.linkedin.com/in/weslan-alves-985510265/
